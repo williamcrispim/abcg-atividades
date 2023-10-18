@@ -2,6 +2,8 @@
 
 ## Atividade 1
 
+**Apresentação:** [Computação Gráfica - Atividade 01 - William Crispim - 11201722180](https://docs.google.com/presentation/d/1K6EUfeZdftWrELGmf3bpBMwtQCsK9HI7Ro8I00ZQlZ8/edit?usp=sharing)
+
 [Aplicação interativa com gráficos 2D (17/10)](https://williamcrispim.github.io/abcg-atividades/chuvaEstrelas/)
 
 ![Alt text](./screenshots/image-8.png)
