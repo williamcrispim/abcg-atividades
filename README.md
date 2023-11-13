@@ -1,5 +1,8 @@
 # ABCg (Atividades)
 
+* [Atividade 1](https://github.com/williamcrispim/abcg-atividades#atividade-1)
+* [Atividade 2](https://github.com/williamcrispim/abcg-atividades#atividade-2)
+
 ## Atividade 1
 
 **Apresentação:** [Computação Gráfica - Atividade 01 - William Crispim - 11201722180](https://docs.google.com/presentation/d/1K6EUfeZdftWrELGmf3bpBMwtQCsK9HI7Ro8I00ZQlZ8/edit?usp=sharing)
@@ -75,3 +78,16 @@ Onde, usando o `SetNextWindowSizeConstraints` do `ImGui`, o `ImVec2(FLT_MAX, FLT
 
 Assim ficou a versão final da **atividade 01**: https://williamcrispim.github.io/abcg-atividades/chuvaEstrelas/.
 
+## Atividade 2
+
+[Aplicação interativa com gráficos 2D (17/10)](https://williamcrispim.github.io/abcg-atividades/bunnySoccer/)
+
+**Integrantes:**
+
+| Nome    | RA |
+| -------- | ------- |
+| William Crispim da Silva  | 11201722180    |
+
+### Detalhes do Projeto Bunny Soccer
+
+Este projeto é uma modificação do projeto [LookAt](https://hbatagelo.github.io/cg/lookatproject.html) com o intuíto de colocar em prática alguns conceitos aprendidos durante as aulas de computação gráfica.
