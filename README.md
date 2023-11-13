@@ -1,7 +1,7 @@
 # ABCg (Atividades)
 
 * [Atividade 1](https://github.com/williamcrispim/abcg-atividades#atividade-1)
-* [Atividade 2 - GitHub Pages](https://github.com/williamcrispim/abcg-atividades#atividade-2)
+* [Atividade 2](https://github.com/williamcrispim/abcg-atividades#atividade-2)
 
 ## Atividade 1
 
@@ -81,6 +81,7 @@ Assim ficou a versão final da **atividade 01**: https://williamcrispim.github.i
 ## Atividade 2
 
 [Aplicação gráfica 3D com animações está marcado(a) para esta data (12/11) - Youtube](https://youtu.be/7eCoJ4HmlCI)
+
 [GitHub Pages](https://williamcrispim.github.io/abcg-atividades/bunnySoccer/)
 
 **Integrantes:**
