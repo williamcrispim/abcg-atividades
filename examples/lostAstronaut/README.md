@@ -68,10 +68,10 @@ Ao longo do código fui adicionando comentários para melhor localização e tam
 
 ## Requisitos da Atividade
 
-[x] Gere os modelos geométricos de forma procedural.
+- [x] Gere os modelos geométricos de forma procedural.
 
-[x] Explore o uso de composição de transformações geométricas.
+- [x] Explore o uso de composição de transformações geométricas.
 
-[x] Implemente novos shaders.
+- [x] Implemente novos shaders.
 
-[] Cuide do visual e da apresentação da aplicação.
+- [x] Cuide do visual e da apresentação da aplicação.
