@@ -4,4 +4,4 @@
 
 * [Atividade 2](https://github.com/williamcrispim/abcg-atividades/tree/main/examples/bunnySoccer)
 
-* [Atividade 2](https://github.com/williamcrispim/abcg-atividades/tree/main/examples/lostAstronaut)
+* [Atividade 3](https://github.com/williamcrispim/abcg-atividades/tree/main/examples/lostAstronaut)
