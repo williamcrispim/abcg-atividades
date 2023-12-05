@@ -1,2 +1,3 @@
 add_subdirectory(chuvaEstrelas)
 add_subdirectory(bunnySoccer)
+add_subdirectory(lostAstronaut)
